@@ -19,7 +19,8 @@
     "connect-multiparty": "^2.1.1",
     "express": "^4.16.3",
     "got": "^9.0.0",
-    "rss": "^1.2.2"
+    "rss": "^1.2.2",
+    "ya-disk": "^1.3.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.3"
